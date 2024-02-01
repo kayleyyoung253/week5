@@ -1,0 +1,13 @@
+{
+  "name": "kyounggr/328/week5",
+  "description": "week5 practice SDEV328",
+  "authors": [
+    {
+      "name": "Kayley Young",
+      "email": "young.kayley@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
